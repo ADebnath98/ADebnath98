@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/40365046/87854566-17dad380-c913-11ea-893c-5a5782dbc12b.gif)](https://ADebnath98.io)
 <h1 align="center">Hi 👋, I'm Aniket Debnath</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
