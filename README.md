@@ -47,7 +47,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adebnath98&" alt="adebnath98" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/adebnath98/adebnath98/0fe79dab4f3b92a04c4728a12f274141289e442e/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
