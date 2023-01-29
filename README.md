@@ -1,7 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/40365046/87854566-17dad380-c913-11ea-893c-5a5782dbc12b.gif)](https://ADebnath98.io)
-<h1 align="center">Hi 👋, I'm Aniket Debnath</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aniket Debnath</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
+
+<p align="center">
+	<a href="https://github.com/ADebnath98">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Data+Structures+and+Algorithms;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adebnath98&label=Profile%20views&color=0e75b6&style=flat" alt="adebnath98" /> </p>
 
