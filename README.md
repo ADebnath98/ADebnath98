@@ -25,6 +25,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/sonic_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sonic_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/aniket_debnath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aniket_debnath/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rahuldebnath29/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rahuldebnath29/practice/" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/6a272532-4c5c-41e2-84dc-ac29a7e54b1d" target="blank"><img align="center" src="https://s3-ap-southeast-1.amazonaws.com/codestudio.codingninjas.com/codestudio/assets/icons/codestudio-logo.svg" alt="https://www.codingninjas.com/codestudio/profile/6a272532-4c5c-41e2-84dc-ac29a7e54b1d" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebnath98" alt="adebnath98" /></a> </p>
