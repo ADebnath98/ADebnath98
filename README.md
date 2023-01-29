@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **DSA, Data Analytics etc**
 
+- 🤝 I’m available for freelancing.
+
 - 👨‍💻 All of my projects are available at [https://github.com/ADebnath98](https://github.com/ADebnath98)
 
 - 📫 How to reach me **rahul.debnath29@gmail.com**
@@ -18,7 +20,7 @@
 - ⚡ Fun fact **I am a sarcastic guy**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me🤝:</h3>
 <p align="left">
 <a href="https://twitter.com/rahuldebnath29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldebnath29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-debnath-04ab50179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniket-debnath-04ab50179/" height="30" width="40" /></a>
