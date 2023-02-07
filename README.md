@@ -12,8 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adebnath98&label=Profile%20views&color=0e75b6&style=flat" alt="adebnath98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rahuldebnath29" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldebnath29?logo=twitter&style=for-the-badge" alt="rahuldebnath29" /></a> </p>
-
-<p align="center"> <a href="https://www.linkedin.com/in/aniket-debnath-04ab50179/" target="blank"><img src="https://img.shields.io/follow/badge/Aniket Debnath?style=for-the-badge&logo=linkedin&logoColor=white" alt="aniket-debnath-04ab50179" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/aniket-debnath-04ab50179/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aniket-debnath-04ab50179" /></a> </p>
 
 - 🔭 I’m currently working on **LTIMindtree**
 
