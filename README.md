@@ -158,3 +158,10 @@
 
 <div align="center">
 
+def current_learning(self):
+    return [
+        "Statistical Modeling for Financial Risk",
+        "Regulatory Compliance Frameworks",
+        "Advanced ML Algorithms",
+        "Real-time Streaming Analytics"
+    ]
