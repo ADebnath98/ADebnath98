@@ -165,3 +165,38 @@ def current_learning(self):
         "Advanced ML Algorithms",
         "Real-time Streaming Analytics"
     ]
+
+
+</div>
+
+---
+
+## 🤝 Let's Connect! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-debnath-04ab50179)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.debnath29@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/ADebnath98)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ADebnath98)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 "Transforming Data into Strategic Business Value" 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ADebnath98&color=brightgreen&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/ADebnath98?style=for-the-badge&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/ADebnath98?style=for-the-badge&color=yellow)
+
+</div>
+
+<!-- Snake eating contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
