@@ -1,125 +1,133 @@
 <div align="center">
 
-<!-- Banner Header -->
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Aniket%20Debnath&text2=Data%20%26%20Analytics%20Professional&width=1200&height=250" alt="Aniket Debnath - Banner" />
+<h1>🚀 Welcome to Aniket's Data Universe 🚀</h1>
 
-<!-- Role Ticker -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=18F6F6&center=true&vCenter=true&width=800&lines=Data+%26+Analytics+Professional;Risk+Management+Specialist;GCP+Data+Engineer;Turning+Data+into+Business+Value" />
-
-<!-- Minimal animated loaders -->
-<img src="https://raw.githubusercontent.com/appy-one/gradient-svg-loaders/main/preview/loader-4.svg" width="60" />
-<img src="https://raw.githubusercontent.com/appy-one/gradient-svg-loaders/main/preview/loader-3.svg" width="60" />
-<img src="https://raw.githubusercontent.com/appy-one/gradient-svg-loaders/main/preview/loader-6.svg" width="60" />
-
-<!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Aniket%20Debnath&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=gradient&desc=Data%20%26%20Analytics%20Professional&descAlignY=51&descAlign=62" />
 
 </div>
 
-## 🎯 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+%26+Analytics+Professional+%F0%9F%93%8A;Risk+Management+Specialist+%F0%9F%8F%A6;GCP+Data+Engineer+%E2%98%81%EF%B8%8F;4%2B+Years+Experience+%F0%9F%9A%80;Transforming+Data+into+Business+Value+%F0%9F%92%A1" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo-images/coding.gif" width="360" height="220" />
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
+</div>
 
-- 🔭 Analyst - II (Control Management) at American Express  
-- 📊 Focus: risk analytics and credit decision-making  
-- 🌱 Learning: Advanced Risk Analytics, ML, GCP Data Engineering  
-- 💼 4+ years turning data into business insights  
-- 🤝 Open to data analytics consulting and risk projects  
-- 📫 Email: [rahul.debnath29@gmail.com](mailto:rahul.debnath29@gmail.com)  
-- ⚡ I love building data systems that surface high-signal insights
+---
+
+## 🎯 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" />
+
+- 🔭 I'm currently working as **Analyst - II (Control Management)** at **American Express**
+- 📊 Focusing on **risk analytics and credit decision-making**
+- 🌱 Currently mastering **Advanced Risk Analytics, ML & GCP Data Engineering**
+- 💼 **4+ years** transforming data into actionable business insights
+- 🤝 Available for **data analytics consulting and risk management projects**
+- 📫 Reach me at [**rahul.debnath29@gmail.com**](mailto:rahul.debnath29@gmail.com)
+- ⚡ Fun fact: **I can predict trends from data before they happen!** 📈
 
 <br clear="both" />
 
-<!-- Gradient separator -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=2&section=footer" />
+---
 
-## 💼 Professional Journey
+## 💼 Professional Journey <img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="30" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h4>📊 American Express</h4>
+<h4>📊 Current: American Express</h4>
 <b>Analyst - II (Control Management)</b><br/>
-<i>Jul 2024 – Present</i>
+<i>July 2024 - Present</i>
 <ul>
-<li>Risk Management & Control Analytics</li>
-<li>Credit decision-making frameworks</li>
-<li>Optimization on large financial datasets</li>
+<li>🏦 Risk Management & Control Analytics</li>
+<li>💳 Credit decision-making frameworks</li>
+<li>📈 Large-scale financial dataset optimization</li>
 </ul>
 
 </td>
 <td width="50%" valign="top">
 
-<h4>🔧 LTIMindtree</h4>
+<h4>🔧 Previous: LTIMindtree</h4>
 <b>Data Engineer</b><br/>
-<i>Nov 2022 – Mar 2024</i>
+<i>Nov 2022 - Mar 2024</i>
 <ul>
-<li>GCP Data Engineering specialist</li>
-<li>Scalable pipelines processing millions of records</li>
-<li>ETL with BigQuery & Dataflow</li>
+<li>☁️ GCP Data Engineering specialist</li>
+<li>🔄 Scalable data pipelines (millions of records)</li>
+<li>🛠️ ETL with BigQuery & Dataflow</li>
 </ul>
 
 </td>
 </tr>
 </table>
 
-<!-- Wave divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:1f6feb&height=120&section=footer" />
+---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" />
 
 <div align="center">
 
-<!-- Animated skill badges (consistent style) -->
-<img src="https://img.shields.io/badge/Risk_Analytics-Expert-FF6B6B?style=for-the-badge&logo=dependabot&logoColor=white" />
-<img src="https://img.shields.io/badge/Credit_Risk-Advanced-FF8E53?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistical_Analysis-Pro-4ECDC4?style=for-the-badge&logo=google-analytics&logoColor=white" />
+### 💳 Risk Analytics & Financial Modeling
+<img src="https://img.shields.io/badge/Risk_Management-Expert-FF6B6B?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/Credit_Risk-Advanced-FF8E53?style=for-the-badge&logo=chart-line&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistical_Analysis-Professional-4ECDC4?style=for-the-badge&logo=analytics&logoColor=white" />
+
+### ☁️ Cloud & Data Engineering
+<img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="GCP" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 <br/>
-<img src="https://img.shields.io/badge/GCP-BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-Expert-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Dataflow-Advanced-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-Intermediate-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/Apache_Spark-Intermediate-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+
+### 🐍 Programming & Analytics
 <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-5★_HackerRank-2EC866?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-5★_HackerRank-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Power_BI-Pro-F2C811?style=for-the-badge&logo=power-bi&logoColor=000" />
-<img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
-<!-- Subtle animated loader line -->
-<br/><br/>
-<img src="https://raw.githubusercontent.com/appy-one/gradient-svg-loaders/main/preview/loader-5.svg" width="120" />
+### 📊 Visualization & BI
+<img src="https://img.shields.io/badge/Power_BI-Professional-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
 </div>
 
-## 🏆 Achievements & Stats
+---
+
+## 🏆 Achievements & Stats <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" />
 
 <div align="center">
 
-<!-- Trophy with different theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=ADebnath98&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+### 🎖️ Key Accomplishments
+<img src="https://github-profile-trophy.vercel.app/?username=ADebnath98&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
-<!-- Stats with alternate style -->
+### 📈 GitHub Analytics
+
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=ADebnath98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADebnath98&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="200" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADebnath98&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADebnath98&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" height="200" />
 </td>
 </tr>
 </table>
 
-<!-- Streak alt theme -->
-<img src="https://streak-stats.demolab.com?user=ADebnath98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADebnath98&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
 
-<!-- Activity graph alt -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADebnath98&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+### 🔥 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADebnath98&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
 
 </div>
+
+---
 
 ## 🌟 Professional Highlights
 
@@ -127,15 +135,17 @@
 
 | 🏅 Achievement | 📊 Impact |
 |:--:|:--:|
-| 5⭐ SQL on HackerRank | Advanced analytics capability |
-| 300+ Problems Solved | Strong problem-solving routine |
-| GCP Data Engineering | Enterprise-scale pipelines |
-| AmEx Financial Services | Risk management specialization |
-| 4+ Years Experience | Progressive, data-driven roles |
+| 5⭐ SQL Rating on HackerRank | Advanced Analytics Expertise |
+| 300+ Problems Solved | Cross-platform coding proficiency |
+| GCP Data Engineering | Enterprise-scale solutions |
+| Financial Services at AmEx | Risk management specialization |
+| 4+ Years Experience | Progressive data-driven roles |
 
 </div>
 
-## 📜 Certifications
+---
+
+## 📜 Certifications <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30" />
 
 <div align="center">
 
@@ -147,23 +157,18 @@
 
 </div>
 
-## 🎯 Current Focus Areas
+---
+
+## 🎯 Current Focus Areas <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" />
 
 - Statistical Modeling for Financial Risk
 - Regulatory Compliance Frameworks
 - Advanced ML Algorithms
 - Real-time Streaming Analytics
 
-## 📡 Live Contribution Animations
+---
 
-<!-- Skyline-like 3D contribution graph (animated GIF generated for user) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/docs/demo.gif" width="600" alt="3D Contribution Graph (demo)" />
-  <br/>
-  <sub>Note: Replace with your own generated 3D graph if desired.</sub>
-</div>
-
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
 
 <div align="center">
 
@@ -178,15 +183,17 @@
 
 <div align="center">
 
-<h3>🌟 "Transforming Data into Strategic Business Value" 🌟</h3>
+<h2>🌟 "Transforming Data into Strategic Business Value" 🌟</h2>
 
-<!-- Stats footer badges -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
+
 <img src="https://komarev.com/ghpvc/?username=ADebnath98&color=brightgreen&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/ADebnath98?style=for-the-badge&color=blue" />
 <img src="https://img.shields.io/github/stars/ADebnath98?style=for-the-badge&color=yellow" />
 
-<!-- Animated gradient bar footer -->
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=8&section=footer" />
+</div>
 
+<!-- Snake eating contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
