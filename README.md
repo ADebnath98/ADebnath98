@@ -1,55 +1,117 @@
-[![MasterHead](https://user-images.githubusercontent.com/40365046/87854566-17dad380-c913-11ea-893c-5a5782dbc12b.gif)](https://ADebnath98.io)
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aniket Debnath</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
+# Hi 👋, I'm Aniket Debnath
 
-<p align="center">
-	<a href="https://github.com/ADebnath98">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Data+Structures+and+Algorithms;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Data+%26+Analytics+Professional;Risk+Management+Specialist;GCP+Data+Engineer;4%2B+Years+Experience" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adebnath98&label=Profile%20views&color=0e75b6&style=flat" alt="adebnath98" /> </p>
+### 📊 Data & Analytics Professional | Risk Management Specialist | GCP Data Engineer
 
-<p align="left"> <a href="https://twitter.com/rahuldebnath29" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldebnath29?logo=twitter&style=for-the-badge" alt="rahuldebnath29" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/aniket-debnath-04ab50179/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aniket-debnath-04ab50179" /></a> </p>
-
-- 🔭 I’m currently working on **LTIMindtree**
-
-- 🌱 I’m currently learning **DSA, Data Analytics etc**
-
-- 🤝 I’m available for freelancing.
-
-- 👨‍💻 All of my projects are available at [https://github.com/ADebnath98](https://github.com/ADebnath98)
-
+- 🔭 I'm currently working as **Analyst - II (Control Management)** at **American Express**, focusing on **risk analytics and credit decision-making**
+- 🌱 I'm currently mastering **Advanced Risk Analytics, Credit Risk Modeling, Statistical Analysis & GCP Data Engineering**
+- 📈 **4+ years** of experience transforming data into actionable business insights across **FinTech and Data Engineering domains**
+- 🤝 I'm available for **data analytics consulting and risk management projects**
+- 👨‍💻 All of my **analytics projects and data engineering solutions** are available at [https://github.com/ADebnath98](https://github.com/ADebnath98)
 - 📫 How to reach me **rahul.debnath29@gmail.com**
+- ⚡ Fun fact **I specialize in finding hidden patterns in financial data that drive business decisions!**
 
-- ⚡ Fun fact **I am a sarcastic guy**
+---
 
+## 💼 Professional Journey
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me🤝:</h3>
-<p align="left">
-<a href="https://twitter.com/rahuldebnath29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldebnath29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-debnath-04ab50179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniket-debnath-04ab50179/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sonic_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sonic_21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aniket_debnath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aniket_debnath/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rahuldebnath29/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rahuldebnath29/practice/" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/6a272532-4c5c-41e2-84dc-ac29a7e54b1d" target="blank"><img align="center" src="https://s3-ap-southeast-1.amazonaws.com/codestudio.codingninjas.com/codestudio/assets/icons/codestudio-logo.svg" alt="https://www.codingninjas.com/codestudio/profile/6a272532-4c5c-41e2-84dc-ac29a7e54b1d" height="30" width="40" /></a>
-</p>
+### 📊 Current: Analyst - II (Control Management) | American Express
+**July 2024 - Present | Gurugram, Haryana**
+- **Risk Management & Control Analytics** in specialized operations
+- Developing **credit decision-making frameworks** using advanced analytics
+- Working with **large-scale financial datasets** to optimize risk controls
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adebnath98" alt="adebnath98" /></a> </p>
+### 🔧 Previous: Data Engineer | LTIMindtree  
+**November 2022 - March 2024 | Kolkata, West Bengal**
+- **GCP Data Engineering** specialist in Data & Analytics division
+- Built **scalable data pipelines** processing millions of financial records
+- Implemented **ETL processes** using BigQuery, Dataflow, and Cloud Functions
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🚀 Foundation: Software Engineer | Mindtree
+**December 2021 - November 2022 | Kolkata**
+- **Data and Intelligence Engineer** focusing on GCP technologies
+- Developed **data warehousing solutions** for enterprise clients
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adebnath98&show_icons=true&locale=en&layout=compact" alt="adebnath98" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adebnath98&show_icons=true&locale=en" alt="adebnath98" /></p>
+## 🎯 Technical Expertise
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adebnath98&" alt="adebnath98" /></p>
+### 💳 Risk Analytics & Financial Modeling
+![Risk Management](https://img.shields.io/badge/Risk_Management-Expert-red?style=flat-square&logo=shield)
+![Credit Risk](https://img.shields.io/badge/Credit_Risk-Advanced-orange?style=flat-square&logo=chart-line)
+![Control Analytics](https://img.shields.io/badge/Control_Analytics-Professional-blue?style=flat-square&logo=analytics)
 
+### ☁️ Data Engineering & Cloud
+![GCP](https://img.shields.io/badge/Google_Cloud-Professional-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-Expert-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-Advanced-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-Intermediate-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+
+### 🐍 Programming & Analytics
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5★_HackerRank-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### 📊 Visualization & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-Professional-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+## 🏆 Key Achievements & Recognition
+
+- **🌟 5-star SQL rating** on HackerRank with advanced analytics expertise
+- **📊 300+ problems solved** across LeetCode, GeeksforGeeks, and HackerRank
+- **☁️ GCP Data Engineering** specialist with hands-on enterprise experience
+- **💳 Financial Services** expertise at American Express in risk management
+- **🏢 Enterprise Solutions** delivered at LTIMindtree for Fortune 500 clients
+- **📈 4+ years** of progressive experience in data-driven organizations
+
+---
+
+## 📜 Professional Certifications
+
+- **KPMG Data Analytics Consulting** Virtual Internship
+- **Microsoft, Goldman Sachs, JPMorgan Chase** Engineering Programs
+- **Google Cloud Platform** certifications and hands-on experience
+- **Python Programming** and **Data Science** certifications
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADebnath98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADebnath98&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADebnath98&theme=tokyonight" alt="ADebnath98" />
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
   
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-debnath-04ab50179)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.debnath29@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/ADebnath98)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ADebnath98)
 
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 "Transforming Data into Strategic Business Value" 🌟
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ADebnath98&color=brightgreen)
+
+</div>
